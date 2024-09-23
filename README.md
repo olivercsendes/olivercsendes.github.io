@@ -27,3 +27,13 @@ none
  fejgerenda | fejgeranda2 |
 ------------|------|
  cella1 | cella2 |
+
+ ## inline (szövegformázás)
+
+ *dőlt*
+
+ **fat(félkövér)**
+
+[llink szövege](https://www.jacksonguitars.com/en/landing?srsltid=AfmBOoqg36l5_YrVw2qm3xVHiO7iTFIQApJ8Yc7fnjoNnnkPixnzJj0w)
+
+[kép]()
